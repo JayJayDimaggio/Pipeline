@@ -18,9 +18,9 @@ pipeline {
 										}
 
 								}
-						}
 								steps {
 										echo "Hello from step 3"
 								}
+						}
 				}													
 }
