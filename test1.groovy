@@ -16,9 +16,11 @@ pipleine {
 										not {
 												branch "master"
 										}
+
 								}
+						}
 								steps {
 										echo "Hello from step 3"
 								}
-						}													
+				}													
 }
